@@ -2,13 +2,13 @@
 
   ## Ejecutar MongoDb
 
-    sudo systemctl start mongod
+    $ sudo systemctl start mongod
 
 ## Detener MongoDB
 
-  $ sudo service mongod stop
-
-  $ sudo systemctl stop mongod
+    $ sudo service mongod stop
+    
+    $ sudo systemctl stop mongod
 
 
 ## Verificar la ejecución de MongoDB
