@@ -7,7 +7,9 @@
 ## Detener MongoDB
 
     $ sudo service mongod stop
-    
+
+  o usando
+
     $ sudo systemctl stop mongod
 
 
